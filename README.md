@@ -12,6 +12,15 @@
 
 <br/>
 
+<p>
+    Sistema para converter valores que o usuário escolher. 
+    <br/>
+    Selecionando uma das opções informadas (no terminal), a moeda será automaticamente convertida 
+    para a moeda cuja faz par, dinamicamente, de acordo com o câmbio daquele momento.
+</p>
+
+<br/>
+
 ## 🌟 TECNOLOGIAS
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
