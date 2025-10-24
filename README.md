@@ -13,10 +13,9 @@
 <br/>
 
 <p>
-    Sistema para converter valores que o usuário escolher. 
+    Sistema para converter valores entre moedas que o usuário escolher. 
     <br/>
-    Selecionando uma das opções informadas (no terminal), a moeda será automaticamente convertida 
-    para a moeda cuja faz par, dinamicamente, de acordo com o câmbio daquele momento.
+    Selecionando uma das opções informadas (no terminal), a moeda será automaticamente convertida para a moeda cuja faz par, em tempo real.
 </p>
 
 <br/>
@@ -27,8 +26,12 @@
     ```bash
     git clone https://github.com/JaqueBRSilva/currency-converter-challenge
     ```
-   
-2. Abra com alguma IDE e execute o programa. A interação acontecerá no terminal.
+
+2.  Visite o site [ExchangeRate-API](https://www.exchangerate-api.com/), entre com seu e-mail e crie uma senha, para receber a chave de acesso pelo e-mail.
+
+3. Com a chave recebida, entre no arquivo `config.properties` (encontre no caminho: `src / main / resources`), e coloque sua chave onde diz "SUA_KEY_AQUI"
+
+4. Abra com alguma IDE e execute o programa. A interação acontecerá no terminal, então digite os números entre 1 a 7 para fazer as conversões, sendo o 7 o encerramento do programa.
 
 <br/>
 
