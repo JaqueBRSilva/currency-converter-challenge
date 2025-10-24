@@ -21,6 +21,17 @@
 
 <br/>
 
+## 📥 BAIXAR E TESTAR
+
+1. Clone o repositório, ou baixe diretamente como `.zip`
+    ```bash
+    git clone https://github.com/JaqueBRSilva/currency-converter-challenge
+    ```
+   
+2. Abra com alguma IDE e execute o programa. A interação acontecerá no terminal.
+
+<br/>
+
 ## 🌟 TECNOLOGIAS
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
